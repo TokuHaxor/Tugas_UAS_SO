@@ -1,4 +1,4 @@
-<h1>#Remaster Ubuntu Tema Education</h1><br>
+<h1>#Remaster Ubuntu Tema Education</h1>
 Maaf Pak, OS nya jelek hehe
 
 Create By Kelompok 1 :
