@@ -12,6 +12,7 @@ A. Alat/Tool yang digunakan
 2.	Ubuntu 18.04
 3.	Tweaks
 4.	VMWARE
+
 B.	Perangkat yang digunakan
 Perangkat yang digunakan yaitu Laptop (Asus Victus)
 
