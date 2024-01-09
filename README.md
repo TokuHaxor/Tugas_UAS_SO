@@ -1,3 +1,4 @@
+<h1>#Rwmaster Ubuntu Tema Education</h1>
 Maaf Pak, OS nya jelek hehe
 
 Create By Kelompok 1 :
@@ -5,7 +6,7 @@ Create By Kelompok 1 :
 2. Angga
 3. Reza
 
-<h1>#Remaster Ubuntu</h1>
+<h2>#Remaster Ubuntu</h2>
 
 A. Alat/Tool yang digunakan
 1.	Play On Linux
